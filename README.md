@@ -5,6 +5,8 @@ A functional .NET 8 counterpart to the [C# Edition](https://github.com/RobertFle
 While the C# version leans on **object-oriented design**, this F# edition embraces **functional purity**, **pattern matching**, and **immutability** to deliver a cleaner, safer, and more mathematically structured sandbox simulation.
 Both editions share the same simulation logic and terminal UI — just different philosophies of code.
 
+### See [GameHub](https://github.com/RobertFlexx/Powder-Sandbox-GameHub) for more editions of this game.
+
 ---
 
 ## Features
